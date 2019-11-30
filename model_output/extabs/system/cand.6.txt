@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>the cameron 's organic french roast is the polar opposite from this coffee</a>
+<a name="2">[2]</a> <a href="#2" id=2>the coffee had no acidity or backbone at all</a>
+<a name="3">[3]</a> <a href="#3" id=3>it was smooth tasting and did n't experience any bitterness or off taste</a>
+</body>
+</html>

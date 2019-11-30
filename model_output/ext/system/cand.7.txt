@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>kettle chips are great chips f/the money!after buying bags one at a time ( at a hefty markup ) at nearby stores , i decided to try bulk ordering some snack foods on amazon .</a>
+<a name="2">[2]</a> <a href="#2" id=2>i like the sweet onion chips better , but these are also at the top of the list for great-tasting potato chips .</a>
+<a name="3">[3]</a> <a href="#3" id=3>salt & vinegar flavor is satisfying , about an 8 out of 10 .</a>
+</body>
+</html>

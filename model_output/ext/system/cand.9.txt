@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>best dog food on the market today .</a>
+<a name="2">[2]</a> <a href="#2" id=2>my cocker loves the food too!this is food especially designed for cocker spaniels who have a range of health issues ... i have been using this product with three of my dogs and all of them are very happy with it .</a>
+<a name="3">[3]</a> <a href="#3" id=3>had numerous ear problems with our cocker spaniel and they have cleared up since taking this food.my father could no longer take care of his beloved 6 year old cocker spaniel , so i decided to take her into my family .</a>
+</body>
+</html>

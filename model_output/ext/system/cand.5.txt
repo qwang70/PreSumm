@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>no worse price wise than starbucks or peets .</a>
+<a name="2">[2]</a> <a href="#2" id=2>as a peets coffee fanatics we learned that weavers roaster was the roaster for peet 's and we are hooked !</a>
+<a name="3">[3]</a> <a href="#3" id=3>i am running through the list of types they have looking for a favorite and have n't found one yet , they 're all so darned smooth .</a>
+</body>
+</html>

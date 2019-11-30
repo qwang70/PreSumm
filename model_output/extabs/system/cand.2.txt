@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>great stuff.these are the best tasting tortilla chips i have ever had</a>
+<a name="2">[2]</a> <a href="#2" id=2>there is so much flavor in these chips that i no longer miss pico de gallo</a>
+<a name="3">[3]</a> <a href="#3" id=3>they also have just the right amount of heat to make them flovorful , but not overpoweringly spicy</a>
+</body>
+</html>

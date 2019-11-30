@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>kettle chips are great chips f/the money!after buying bags one at a time</a>
+<a name="2">[2]</a> <a href="#2" id=2>they have a slow-building spice that starts very subtly a grows if you eat the whole bag</a>
+<a name="3">[3]</a> <a href="#3" id=3>the price-per-bag was much , much better than any local store could do , although that may play a role in the price difference</a>
+</body>
+</html>

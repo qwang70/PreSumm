@@ -1,0 +1,11 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>great flavor</a>
+<a name="2">[2]</a> <a href="#2" id=2>branding</a>
+<a name="3">[3]</a> <a href="#3" id=3>snack sized bag</a>
+<a name="4">[4]</a> <a href="#4" id=4>addicting</a>
+</body>
+</html>

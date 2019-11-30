@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>this is the fifth time in 2 weeks this has happened</a>
+<a name="2">[2]</a> <a href="#2" id=2>not king oscar.thee are great quality kippers and the cans have never given me any trouble whatsoever</a>
+</body>
+</html>

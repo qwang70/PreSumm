@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>barry 's bakery french twist is one of the best tasting products on the market and healthy</a>
+<a name="2">[2]</a> <a href="#2" id=2>the french twist fits into any diet plan and taste sweet , despite not having excessive amounts of sugar</a>
+<a name="3">[3]</a> <a href="#3" id=3>the quality of the twist was its usual good quality , but they would have survived the transport much better if they were in the plastic tubs</a>
+</body>
+</html>

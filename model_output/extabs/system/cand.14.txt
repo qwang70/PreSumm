@@ -1,0 +1,11 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>i like my oatmeal raisin cookies soft , and that 's what these are</a>
+<a name="2">[2]</a> <a href="#2" id=2>these are : soft , sweet , chewy , superb . they 're worth it</a>
+<a name="3">[3]</a> <a href="#3" id=3>these cookies are individually wrapped and that makes it handy to put them in a lunchbox , backpack , or any portable bag</a>
+<a name="4">[4]</a> <a href="#4" id=4>they are great for people who are trying to watch what they eat or are perfect for small hands</a>
+</body>
+</html>

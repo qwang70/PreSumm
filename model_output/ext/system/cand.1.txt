@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>while the assortment was good , and i did get this on a gold box purchase , the price for this was <br /> $ 3-4 less at target.this bag of candy online is pretty expensive , it should be cheaper in order to compete with grocery stores , other than that , its a good combination of my favorite candy</a>
+<a name="2">[2]</a> <a href="#2" id=2>i love the quality of this product and it was much less expensive than the local store 's candy.it is chocolate , what can i say .</a>
+<a name="3">[3]</a> <a href="#3" id=3>arrived before halloween as indicated and was enough to satisfy trick or treaters .</a>
+</body>
+</html>

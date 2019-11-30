@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>i originally found this roasted garlic juice at one of those roadside shops that sell a variety of foodstuffs , plants and ice cream .</a>
+<a name="2">[2]</a> <a href="#2" id=2>that was about a year ago and unfortunately , the place is now out of business .</a>
+<a name="3">[3]</a> <a href="#3" id=3>it is pungent yet smooth and will bring out the flavor in any meat or dish you can imagine .</a>
+</body>
+</html>

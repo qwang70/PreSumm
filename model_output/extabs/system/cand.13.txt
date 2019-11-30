@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>among the best milk chocolate candy i 've eaten , ranks with the pricey kind for taste and texture</a>
+<a name="2">[2]</a> <a href="#2" id=2>i order these bars because i really like the milk chocolate taste , i will avoid the comparison to the difference in taste between these and other candy bars like hershey</a>
+<a name="3">[3]</a> <a href="#3" id=3>i would definitely order from this vendor again when i need my next nestle fix !</a>
+</body>
+</html>

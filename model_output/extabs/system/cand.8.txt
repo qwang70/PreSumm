@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>the best dog food on the market today has cleared up since taking this food</a>
+<a name="2">[2]</a> <a href="#2" id=2>my cocker spaniel has tried several foods in her 6 years , and this is the only one she will eat by itself without any " people food " being added</a>
+<a name="3">[3]</a> <a href="#3" id=3>petco carried the cocker spaniel formula but only in smaller bags which is much more expensive on a per ounce ratio</a>
+</body>
+</html>

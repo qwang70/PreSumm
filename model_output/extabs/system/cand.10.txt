@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>the taste of the tuna was not pleasant , too much basil and other spices for me</a>
+<a name="2">[2]</a> <a href="#2" id=2>i found it much tastier than the plain tuna pouches out there</a>
+<a name="3">[3]</a> <a href="#3" id=3>there are much better tasting products out there but at 100 calories its better than a special k bar or cookie snack pack</a>
+</body>
+</html>

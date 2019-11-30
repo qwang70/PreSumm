@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>the only coconut water that i have found , is n't paturized , is made by exotic superfoods</a>
+<a name="2">[2]</a> <a href="#2" id=2>the best way to describe it is fresher and sweeter , without any packaging tastes that the others contain</a>
+<a name="3">[3]</a> <a href="#3" id=3>i have had better , but only in bottles from other boutique brands or labeled " raw " but in the bottle  i wo n't even buy naked or one anymore , just to weak and stale , poor remnants of their fresh selves</a>
+</body>
+</html>

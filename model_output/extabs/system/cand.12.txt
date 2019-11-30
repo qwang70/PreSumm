@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>it 's a great product - especially if you like garlic !</a>
+<a name="2">[2]</a> <a href="#2" id=2>there are 150 cloves in every bottle</a>
+<a name="3">[3]</a> <a href="#3" id=3>garlic is n't an " oily & salty product " just plain or roasted garlic</a>
+</body>
+</html>

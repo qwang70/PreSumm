@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>you can also go lighter on the tequila if you like</a>
+<a name="2">[2]</a> <a href="#2" id=2>try it with your favorite 100 % agave tequila</a>
+<a name="3">[3]</a> <a href="#3" id=3>you can use a little less lime juice or add a schmee bit of sugar</a>
+</body>
+</html>

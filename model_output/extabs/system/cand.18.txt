@@ -1,0 +1,11 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>i bought a set of two when my son was about 6 months , and we started taking them with us whenever we went to eat</a>
+<a name="2">[2]</a> <a href="#2" id=2>i did n't have to be overly worried about him choking on big chunks , and he got to try out new foods</a>
+<a name="3">[3]</a> <a href="#3" id=3>i tried scrubbing them out and even washed it in the dishwasher as it suggests</a>
+<a name="4">[4]</a> <a href="#4" id=4>the only drawback is that bits of food get stuck in the mesh and the seams and are impossible to get out to save my life</a>
+</body>
+</html>
