@@ -230,6 +230,7 @@ class Trainer(object):
         with open(can_path, 'w') as save_pred:
             with open(gold_path, 'w') as save_gold:
                 with torch.no_grad():
+                    ct = 0
                     for batch in test_iter:
                         src = batch.src
                         labels = batch.src_sent_labels
@@ -283,9 +284,11 @@ class Trainer(object):
                             gold.append(batch.tgt_str[i])
 
                         for i in range(len(gold)):
+                            save_gold.write(str(ct) + '\n')
                             save_gold.write(gold[i].strip() + '\n')
-                        for i in range(len(pred)):
+                            save_pred.write(str(ct) + '\n')
                             save_pred.write(pred[i].strip() + '\n')
+                            ct += 1
         if (step != -1 and self.args.report_rouge):
             rouges = test_rouge(self.args.temp_dir, can_path, gold_path)
             logger.info('Rouges at step %d \n%s' % (step, rouge_results_to_str(rouges)))

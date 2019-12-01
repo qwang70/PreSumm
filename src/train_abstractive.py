@@ -26,6 +26,7 @@ from others.logging import logger, init_logger
 model_flags = ['hidden_size', 'ff_size', 'heads', 'emb_size', 'enc_layers', 'enc_hidden_size', 'enc_ff_size',
                'dec_layers', 'dec_hidden_size', 'dec_ff_size', 'encoder', 'ff_actv', 'use_interval']
 
+FILE_PATH = 'bertsum_extabs_model_step*.pt'
 
 def str2bool(v):
     if v.lower() in ('yes', 'true', 't', 'y', '1'):
@@ -118,9 +119,11 @@ class ErrorHandler(object):
 
 
 def validate_abs(args, device_id):
+    print("validate_abs")
     timestep = 0
     if (args.test_all):
-        cp_files = sorted(glob.glob(os.path.join(args.model_path, 'model_step_*.pt')))
+        print("test all")
+        cp_files = sorted(glob.glob(os.path.join(args.model_path, FILE_PATH)))
         cp_files.sort(key=os.path.getmtime)
         xent_lst = []
         for i, cp in enumerate(cp_files):
@@ -140,7 +143,8 @@ def validate_abs(args, device_id):
             test_abs(args, device_id, cp, step)
     else:
         while (True):
-            cp_files = sorted(glob.glob(os.path.join(args.model_path, 'model_step_*.pt')))
+            print("timestep", timestep)
+            cp_files = sorted(glob.glob(os.path.join(args.model_path, FILE_PATH)))
             cp_files.sort(key=os.path.getmtime)
             if (cp_files):
                 cp = cp_files[-1]
@@ -154,18 +158,21 @@ def validate_abs(args, device_id):
                     validate(args, device_id, cp, step)
                     test_abs(args, device_id, cp, step)
 
-            cp_files = sorted(glob.glob(os.path.join(args.model_path, 'model_step_*.pt')))
+            cp_files = sorted(glob.glob(os.path.join(args.model_path, FILE_PATH)))
             cp_files.sort(key=os.path.getmtime)
             if (cp_files):
                 cp = cp_files[-1]
                 time_of_cp = os.path.getmtime(cp)
+                print("time of cp", time_of_cp)
                 if (time_of_cp > timestep):
                     continue
+                return
             else:
                 time.sleep(300)
 
 
 def validate(args, device_id, pt, step):
+    print("validate")
     device = "cpu" if args.visible_gpus == '-1' else "cuda"
     if (pt != ''):
         test_from = pt
@@ -198,6 +205,7 @@ def validate(args, device_id, pt, step):
 
 
 def test_abs(args, device_id, pt, step):
+    print("test_abs")
     device = "cpu" if args.visible_gpus == '-1' else "cuda"
     if (pt != ''):
         test_from = pt

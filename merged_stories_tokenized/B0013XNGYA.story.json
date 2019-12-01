@@ -1,0 +1,3263 @@
+{
+  "docId": "B0013XNGYA.story",
+  "sentences": [
+    {
+      "index": 0,
+      "tokens": [
+        {
+          "index": 1,
+          "word": "This",
+          "originalText": "This",
+          "characterOffsetBegin": 0,
+          "characterOffsetEnd": 4,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "is",
+          "originalText": "is",
+          "characterOffsetBegin": 5,
+          "characterOffsetEnd": 7,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "a",
+          "originalText": "a",
+          "characterOffsetBegin": 8,
+          "characterOffsetEnd": 9,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "great",
+          "originalText": "great",
+          "characterOffsetBegin": 10,
+          "characterOffsetEnd": 15,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "honey",
+          "originalText": "honey",
+          "characterOffsetBegin": 16,
+          "characterOffsetEnd": 21,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "if",
+          "originalText": "if",
+          "characterOffsetBegin": 22,
+          "characterOffsetEnd": 24,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 7,
+          "word": "you",
+          "originalText": "you",
+          "characterOffsetBegin": 25,
+          "characterOffsetEnd": 28,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 8,
+          "word": "like",
+          "originalText": "like",
+          "characterOffsetBegin": 29,
+          "characterOffsetEnd": 33,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 9,
+          "word": "the",
+          "originalText": "the",
+          "characterOffsetBegin": 34,
+          "characterOffsetEnd": 37,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 10,
+          "word": "sweet",
+          "originalText": "sweet",
+          "characterOffsetBegin": 38,
+          "characterOffsetEnd": 43,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 11,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 43,
+          "characterOffsetEnd": 44,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 12,
+          "word": "dark",
+          "originalText": "dark",
+          "characterOffsetBegin": 45,
+          "characterOffsetEnd": 49,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 13,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 49,
+          "characterOffsetEnd": 50,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 14,
+          "word": "earthy",
+          "originalText": "earthy",
+          "characterOffsetBegin": 51,
+          "characterOffsetEnd": 57,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 15,
+          "word": "taste",
+          "originalText": "taste",
+          "characterOffsetBegin": 58,
+          "characterOffsetEnd": 63,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 16,
+          "word": "of",
+          "originalText": "of",
+          "characterOffsetBegin": 64,
+          "characterOffsetEnd": 66,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 17,
+          "word": "manuka",
+          "originalText": "manuka",
+          "characterOffsetBegin": 67,
+          "characterOffsetEnd": 73,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 18,
+          "word": "honey",
+          "originalText": "honey",
+          "characterOffsetBegin": 74,
+          "characterOffsetEnd": 79,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 19,
+          "word": ".",
+          "originalText": ".",
+          "characterOffsetBegin": 79,
+          "characterOffsetEnd": 80,
+          "before": "",
+          "after": "  "
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "tokens": [
+        {
+          "index": 1,
+          "word": "This",
+          "originalText": "This",
+          "characterOffsetBegin": 82,
+          "characterOffsetEnd": 86,
+          "before": "  ",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "brand",
+          "originalText": "brand",
+          "characterOffsetBegin": 87,
+          "characterOffsetEnd": 92,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "is",
+          "originalText": "is",
+          "characterOffsetBegin": 93,
+          "characterOffsetEnd": 95,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "especially",
+          "originalText": "especially",
+          "characterOffsetBegin": 96,
+          "characterOffsetEnd": 106,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "nice",
+          "originalText": "nice",
+          "characterOffsetBegin": 107,
+          "characterOffsetEnd": 111,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "because",
+          "originalText": "because",
+          "characterOffsetBegin": 112,
+          "characterOffsetEnd": 119,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 7,
+          "word": "of",
+          "originalText": "of",
+          "characterOffsetBegin": 120,
+          "characterOffsetEnd": 122,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 8,
+          "word": "the",
+          "originalText": "the",
+          "characterOffsetBegin": 123,
+          "characterOffsetEnd": 126,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 9,
+          "word": "glass",
+          "originalText": "glass",
+          "characterOffsetBegin": 127,
+          "characterOffsetEnd": 132,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 10,
+          "word": "-LRB-",
+          "originalText": "(",
+          "characterOffsetBegin": 133,
+          "characterOffsetEnd": 134,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 11,
+          "word": "not",
+          "originalText": "not",
+          "characterOffsetBegin": 134,
+          "characterOffsetEnd": 137,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 12,
+          "word": "plastic",
+          "originalText": "plastic",
+          "characterOffsetBegin": 138,
+          "characterOffsetEnd": 145,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 13,
+          "word": "-RRB-",
+          "originalText": ")",
+          "characterOffsetBegin": 145,
+          "characterOffsetEnd": 146,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 14,
+          "word": "jar.This",
+          "originalText": "jar.This",
+          "characterOffsetBegin": 147,
+          "characterOffsetEnd": 155,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 15,
+          "word": "is",
+          "originalText": "is",
+          "characterOffsetBegin": 156,
+          "characterOffsetEnd": 158,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 16,
+          "word": "the",
+          "originalText": "the",
+          "characterOffsetBegin": 159,
+          "characterOffsetEnd": 162,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 17,
+          "word": "best",
+          "originalText": "best",
+          "characterOffsetBegin": 163,
+          "characterOffsetEnd": 167,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 18,
+          "word": "of",
+          "originalText": "of",
+          "characterOffsetBegin": 168,
+          "characterOffsetEnd": 170,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 19,
+          "word": "the",
+          "originalText": "the",
+          "characterOffsetBegin": 171,
+          "characterOffsetEnd": 174,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 20,
+          "word": "best",
+          "originalText": "best",
+          "characterOffsetBegin": 175,
+          "characterOffsetEnd": 179,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 21,
+          "word": "in",
+          "originalText": "in",
+          "characterOffsetBegin": 180,
+          "characterOffsetEnd": 182,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 22,
+          "word": "my",
+          "originalText": "my",
+          "characterOffsetBegin": 183,
+          "characterOffsetEnd": 185,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 23,
+          "word": "opinion",
+          "originalText": "opinion",
+          "characterOffsetBegin": 186,
+          "characterOffsetEnd": 193,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 24,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 193,
+          "characterOffsetEnd": 194,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 25,
+          "word": "and",
+          "originalText": "and",
+          "characterOffsetBegin": 195,
+          "characterOffsetEnd": 198,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 26,
+          "word": "reasonably",
+          "originalText": "reasonably",
+          "characterOffsetBegin": 199,
+          "characterOffsetEnd": 209,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 27,
+          "word": "priced",
+          "originalText": "priced",
+          "characterOffsetBegin": 210,
+          "characterOffsetEnd": 216,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 28,
+          "word": ".",
+          "originalText": ".",
+          "characterOffsetBegin": 216,
+          "characterOffsetEnd": 217,
+          "before": "",
+          "after": " "
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "tokens": [
+        {
+          "index": 1,
+          "word": "You",
+          "originalText": "You",
+          "characterOffsetBegin": 218,
+          "characterOffsetEnd": 221,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "can",
+          "originalText": "can",
+          "characterOffsetBegin": 222,
+          "characterOffsetEnd": 225,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "expect",
+          "originalText": "expect",
+          "characterOffsetBegin": 226,
+          "characterOffsetEnd": 232,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "to",
+          "originalText": "to",
+          "characterOffsetBegin": 233,
+          "characterOffsetEnd": 235,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "spend",
+          "originalText": "spend",
+          "characterOffsetBegin": 236,
+          "characterOffsetEnd": 241,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "nearly",
+          "originalText": "nearly",
+          "characterOffsetBegin": 242,
+          "characterOffsetEnd": 248,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 7,
+          "word": "twice",
+          "originalText": "twice",
+          "characterOffsetBegin": 249,
+          "characterOffsetEnd": 254,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 8,
+          "word": "the",
+          "originalText": "the",
+          "characterOffsetBegin": 255,
+          "characterOffsetEnd": 258,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 9,
+          "word": "cost",
+          "originalText": "cost",
+          "characterOffsetBegin": 259,
+          "characterOffsetEnd": 263,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 10,
+          "word": "of",
+          "originalText": "of",
+          "characterOffsetBegin": 264,
+          "characterOffsetEnd": 266,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 11,
+          "word": "this",
+          "originalText": "this",
+          "characterOffsetBegin": 267,
+          "characterOffsetEnd": 271,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 12,
+          "word": "product",
+          "originalText": "product",
+          "characterOffsetBegin": 272,
+          "characterOffsetEnd": 279,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 13,
+          "word": "to",
+          "originalText": "to",
+          "characterOffsetBegin": 280,
+          "characterOffsetEnd": 282,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 14,
+          "word": "get",
+          "originalText": "get",
+          "characterOffsetBegin": 283,
+          "characterOffsetEnd": 286,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 15,
+          "word": "something",
+          "originalText": "something",
+          "characterOffsetBegin": 287,
+          "characterOffsetEnd": 296,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 16,
+          "word": "similar",
+          "originalText": "similar",
+          "characterOffsetBegin": 297,
+          "characterOffsetEnd": 304,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 17,
+          "word": "at",
+          "originalText": "at",
+          "characterOffsetBegin": 305,
+          "characterOffsetEnd": 307,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 18,
+          "word": "the",
+          "originalText": "the",
+          "characterOffsetBegin": 308,
+          "characterOffsetEnd": 311,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 19,
+          "word": "retail",
+          "originalText": "retail",
+          "characterOffsetBegin": 312,
+          "characterOffsetEnd": 318,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 20,
+          "word": "``",
+          "originalText": "\"",
+          "characterOffsetBegin": 319,
+          "characterOffsetEnd": 320,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 21,
+          "word": "Whole",
+          "originalText": "Whole",
+          "characterOffsetBegin": 320,
+          "characterOffsetEnd": 325,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 22,
+          "word": "Foods",
+          "originalText": "Foods",
+          "characterOffsetBegin": 326,
+          "characterOffsetEnd": 331,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 23,
+          "word": "''",
+          "originalText": "\"",
+          "characterOffsetBegin": 331,
+          "characterOffsetEnd": 332,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 24,
+          "word": "Market",
+          "originalText": "Market",
+          "characterOffsetBegin": 333,
+          "characterOffsetEnd": 339,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 25,
+          "word": ".",
+          "originalText": ".",
+          "characterOffsetBegin": 339,
+          "characterOffsetEnd": 340,
+          "before": "",
+          "after": " "
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "tokens": [
+        {
+          "index": 1,
+          "word": "On",
+          "originalText": "On",
+          "characterOffsetBegin": 341,
+          "characterOffsetEnd": 343,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "many",
+          "originalText": "many",
+          "characterOffsetBegin": 344,
+          "characterOffsetEnd": 348,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "alternative",
+          "originalText": "alternative",
+          "characterOffsetBegin": 349,
+          "characterOffsetEnd": 360,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "medicine",
+          "originalText": "medicine",
+          "characterOffsetBegin": 361,
+          "characterOffsetEnd": 369,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "sites",
+          "originalText": "sites",
+          "characterOffsetBegin": 370,
+          "characterOffsetEnd": 375,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "research",
+          "originalText": "research",
+          "characterOffsetBegin": 376,
+          "characterOffsetEnd": 384,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 7,
+          "word": "has",
+          "originalText": "has",
+          "characterOffsetBegin": 385,
+          "characterOffsetEnd": 388,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 8,
+          "word": "been",
+          "originalText": "been",
+          "characterOffsetBegin": 389,
+          "characterOffsetEnd": 393,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 9,
+          "word": "quoted",
+          "originalText": "quoted",
+          "characterOffsetBegin": 394,
+          "characterOffsetEnd": 400,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 10,
+          "word": "showing",
+          "originalText": "showing",
+          "characterOffsetBegin": 401,
+          "characterOffsetEnd": 408,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 11,
+          "word": "the",
+          "originalText": "the",
+          "characterOffsetBegin": 409,
+          "characterOffsetEnd": 412,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 12,
+          "word": "marvelous",
+          "originalText": "marvelous",
+          "characterOffsetBegin": 413,
+          "characterOffsetEnd": 422,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 13,
+          "word": "healing",
+          "originalText": "healing",
+          "characterOffsetBegin": 423,
+          "characterOffsetEnd": 430,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 14,
+          "word": "benefits",
+          "originalText": "benefits",
+          "characterOffsetBegin": 431,
+          "characterOffsetEnd": 439,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 15,
+          "word": "of",
+          "originalText": "of",
+          "characterOffsetBegin": 440,
+          "characterOffsetEnd": 442,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 16,
+          "word": "this",
+          "originalText": "this",
+          "characterOffsetBegin": 443,
+          "characterOffsetEnd": 447,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 17,
+          "word": "honey",
+          "originalText": "honey",
+          "characterOffsetBegin": 448,
+          "characterOffsetEnd": 453,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 18,
+          "word": ".",
+          "originalText": ".",
+          "characterOffsetBegin": 453,
+          "characterOffsetEnd": 454,
+          "before": "",
+          "after": " "
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "tokens": [
+        {
+          "index": 1,
+          "word": "One",
+          "originalText": "One",
+          "characterOffsetBegin": 455,
+          "characterOffsetEnd": 458,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "of",
+          "originalText": "of",
+          "characterOffsetBegin": 459,
+          "characterOffsetEnd": 461,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "the",
+          "originalText": "the",
+          "characterOffsetBegin": 462,
+          "characterOffsetEnd": 465,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "benefits",
+          "originalText": "benefits",
+          "characterOffsetBegin": 466,
+          "characterOffsetEnd": 474,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "quoted",
+          "originalText": "quoted",
+          "characterOffsetBegin": 475,
+          "characterOffsetEnd": 481,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "is",
+          "originalText": "is",
+          "characterOffsetBegin": 482,
+          "characterOffsetEnd": 484,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 7,
+          "word": "the",
+          "originalText": "the",
+          "characterOffsetBegin": 485,
+          "characterOffsetEnd": 488,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 8,
+          "word": "ability",
+          "originalText": "ability",
+          "characterOffsetBegin": 489,
+          "characterOffsetEnd": 496,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 9,
+          "word": "of",
+          "originalText": "of",
+          "characterOffsetBegin": 497,
+          "characterOffsetEnd": 499,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 10,
+          "word": "certain",
+          "originalText": "certain",
+          "characterOffsetBegin": 500,
+          "characterOffsetEnd": 507,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 11,
+          "word": "raw",
+          "originalText": "raw",
+          "characterOffsetBegin": 508,
+          "characterOffsetEnd": 511,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 12,
+          "word": "honey",
+          "originalText": "honey",
+          "characterOffsetBegin": 512,
+          "characterOffsetEnd": 517,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 13,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 517,
+          "characterOffsetEnd": 518,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 14,
+          "word": "such",
+          "originalText": "such",
+          "characterOffsetBegin": 519,
+          "characterOffsetEnd": 523,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 15,
+          "word": "as",
+          "originalText": "as",
+          "characterOffsetBegin": 524,
+          "characterOffsetEnd": 526,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 16,
+          "word": "this",
+          "originalText": "this",
+          "characterOffsetBegin": 527,
+          "characterOffsetEnd": 531,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 17,
+          "word": "one",
+          "originalText": "one",
+          "characterOffsetBegin": 532,
+          "characterOffsetEnd": 535,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 18,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 535,
+          "characterOffsetEnd": 536,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 19,
+          "word": "to",
+          "originalText": "to",
+          "characterOffsetBegin": 537,
+          "characterOffsetEnd": 539,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 20,
+          "word": "be",
+          "originalText": "be",
+          "characterOffsetBegin": 540,
+          "characterOffsetEnd": 542,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 21,
+          "word": "placed",
+          "originalText": "placed",
+          "characterOffsetBegin": 543,
+          "characterOffsetEnd": 549,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 22,
+          "word": "on",
+          "originalText": "on",
+          "characterOffsetBegin": 550,
+          "characterOffsetEnd": 552,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 23,
+          "word": "a",
+          "originalText": "a",
+          "characterOffsetBegin": 553,
+          "characterOffsetEnd": 554,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 24,
+          "word": "very",
+          "originalText": "very",
+          "characterOffsetBegin": 555,
+          "characterOffsetEnd": 559,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 25,
+          "word": "bad",
+          "originalText": "bad",
+          "characterOffsetBegin": 560,
+          "characterOffsetEnd": 563,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 26,
+          "word": "burn",
+          "originalText": "burn",
+          "characterOffsetBegin": 564,
+          "characterOffsetEnd": 568,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 27,
+          "word": "and",
+          "originalText": "and",
+          "characterOffsetBegin": 569,
+          "characterOffsetEnd": 572,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 28,
+          "word": "the",
+          "originalText": "the",
+          "characterOffsetBegin": 573,
+          "characterOffsetEnd": 576,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 29,
+          "word": "burn",
+          "originalText": "burn",
+          "characterOffsetBegin": 577,
+          "characterOffsetEnd": 581,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 30,
+          "word": "will",
+          "originalText": "will",
+          "characterOffsetBegin": 582,
+          "characterOffsetEnd": 586,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 31,
+          "word": "heal",
+          "originalText": "heal",
+          "characterOffsetBegin": 587,
+          "characterOffsetEnd": 591,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 32,
+          "word": "without",
+          "originalText": "without",
+          "characterOffsetBegin": 592,
+          "characterOffsetEnd": 599,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 33,
+          "word": "ever",
+          "originalText": "ever",
+          "characterOffsetBegin": 600,
+          "characterOffsetEnd": 604,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 34,
+          "word": "leaving",
+          "originalText": "leaving",
+          "characterOffsetBegin": 605,
+          "characterOffsetEnd": 612,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 35,
+          "word": "a",
+          "originalText": "a",
+          "characterOffsetBegin": 613,
+          "characterOffsetEnd": 614,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 36,
+          "word": "scar",
+          "originalText": "scar",
+          "characterOffsetBegin": 615,
+          "characterOffsetEnd": 619,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 37,
+          "word": ".",
+          "originalText": ".",
+          "characterOffsetBegin": 619,
+          "characterOffsetEnd": 620,
+          "before": "",
+          "after": " "
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "tokens": [
+        {
+          "index": 1,
+          "word": "What",
+          "originalText": "What",
+          "characterOffsetBegin": 621,
+          "characterOffsetEnd": 625,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "do",
+          "originalText": "do",
+          "characterOffsetBegin": 626,
+          "characterOffsetEnd": 628,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "we",
+          "originalText": "we",
+          "characterOffsetBegin": 629,
+          "characterOffsetEnd": 631,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "know",
+          "originalText": "know",
+          "characterOffsetBegin": 632,
+          "characterOffsetEnd": 636,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "of",
+          "originalText": "of",
+          "characterOffsetBegin": 637,
+          "characterOffsetEnd": 639,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "in",
+          "originalText": "in",
+          "characterOffsetBegin": 640,
+          "characterOffsetEnd": 642,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 7,
+          "word": "allopathic",
+          "originalText": "allopathic",
+          "characterOffsetBegin": 643,
+          "characterOffsetEnd": 653,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 8,
+          "word": "``",
+          "originalText": "\"",
+          "characterOffsetBegin": 654,
+          "characterOffsetEnd": 655,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 9,
+          "word": "modern",
+          "originalText": "modern",
+          "characterOffsetBegin": 655,
+          "characterOffsetEnd": 661,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 10,
+          "word": "medicine",
+          "originalText": "medicine",
+          "characterOffsetBegin": 662,
+          "characterOffsetEnd": 670,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 11,
+          "word": "''",
+          "originalText": "\"",
+          "characterOffsetBegin": 670,
+          "characterOffsetEnd": 671,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 12,
+          "word": "that",
+          "originalText": "that",
+          "characterOffsetBegin": 672,
+          "characterOffsetEnd": 676,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 13,
+          "word": "can",
+          "originalText": "can",
+          "characterOffsetBegin": 677,
+          "characterOffsetEnd": 680,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 14,
+          "word": "do",
+          "originalText": "do",
+          "characterOffsetBegin": 681,
+          "characterOffsetEnd": 683,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 15,
+          "word": "that",
+          "originalText": "that",
+          "characterOffsetBegin": 684,
+          "characterOffsetEnd": 688,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 16,
+          "word": "without",
+          "originalText": "without",
+          "characterOffsetBegin": 689,
+          "characterOffsetEnd": 696,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 17,
+          "word": "horrendous",
+          "originalText": "horrendous",
+          "characterOffsetBegin": 697,
+          "characterOffsetEnd": 707,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 18,
+          "word": "and",
+          "originalText": "and",
+          "characterOffsetBegin": 708,
+          "characterOffsetEnd": 711,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 19,
+          "word": "most",
+          "originalText": "most",
+          "characterOffsetBegin": 712,
+          "characterOffsetEnd": 716,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 20,
+          "word": "often",
+          "originalText": "often",
+          "characterOffsetBegin": 717,
+          "characterOffsetEnd": 722,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 21,
+          "word": "debilitating",
+          "originalText": "debilitating",
+          "characterOffsetBegin": 723,
+          "characterOffsetEnd": 735,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 22,
+          "word": "or",
+          "originalText": "or",
+          "characterOffsetBegin": 736,
+          "characterOffsetEnd": 738,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 23,
+          "word": "life",
+          "originalText": "life",
+          "characterOffsetBegin": 739,
+          "characterOffsetEnd": 743,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 24,
+          "word": "threatening",
+          "originalText": "threatening",
+          "characterOffsetBegin": 744,
+          "characterOffsetEnd": 755,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 25,
+          "word": "side",
+          "originalText": "side",
+          "characterOffsetBegin": 756,
+          "characterOffsetEnd": 760,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 26,
+          "word": "effects.I",
+          "originalText": "effects.I",
+          "characterOffsetBegin": 761,
+          "characterOffsetEnd": 770,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 27,
+          "word": "have",
+          "originalText": "have",
+          "characterOffsetBegin": 771,
+          "characterOffsetEnd": 775,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 28,
+          "word": "had",
+          "originalText": "had",
+          "characterOffsetBegin": 776,
+          "characterOffsetEnd": 779,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 29,
+          "word": "a",
+          "originalText": "a",
+          "characterOffsetBegin": 780,
+          "characterOffsetEnd": 781,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 30,
+          "word": "milk",
+          "originalText": "milk",
+          "characterOffsetBegin": 782,
+          "characterOffsetEnd": 786,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 31,
+          "word": "allergy",
+          "originalText": "allergy",
+          "characterOffsetBegin": 787,
+          "characterOffsetEnd": 794,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 32,
+          "word": "all",
+          "originalText": "all",
+          "characterOffsetBegin": 795,
+          "characterOffsetEnd": 798,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 33,
+          "word": "my",
+          "originalText": "my",
+          "characterOffsetBegin": 799,
+          "characterOffsetEnd": 801,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 34,
+          "word": "life",
+          "originalText": "life",
+          "characterOffsetBegin": 802,
+          "characterOffsetEnd": 806,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 35,
+          "word": "that",
+          "originalText": "that",
+          "characterOffsetBegin": 807,
+          "characterOffsetEnd": 811,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 36,
+          "word": "I",
+          "originalText": "I",
+          "characterOffsetBegin": 812,
+          "characterOffsetEnd": 813,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 37,
+          "word": "did",
+          "originalText": "did",
+          "characterOffsetBegin": 814,
+          "characterOffsetEnd": 817,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 38,
+          "word": "n't",
+          "originalText": "n't",
+          "characterOffsetBegin": 817,
+          "characterOffsetEnd": 820,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 39,
+          "word": "know",
+          "originalText": "know",
+          "characterOffsetBegin": 821,
+          "characterOffsetEnd": 825,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 40,
+          "word": "about",
+          "originalText": "about",
+          "characterOffsetBegin": 826,
+          "characterOffsetEnd": 831,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 41,
+          "word": "so",
+          "originalText": "so",
+          "characterOffsetBegin": 832,
+          "characterOffsetEnd": 834,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 42,
+          "word": "I",
+          "originalText": "I",
+          "characterOffsetBegin": 835,
+          "characterOffsetEnd": 836,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 43,
+          "word": "kept",
+          "originalText": "kept",
+          "characterOffsetBegin": 837,
+          "characterOffsetEnd": 841,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 44,
+          "word": "having",
+          "originalText": "having",
+          "characterOffsetBegin": 842,
+          "characterOffsetEnd": 848,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 45,
+          "word": "to",
+          "originalText": "to",
+          "characterOffsetBegin": 849,
+          "characterOffsetEnd": 851,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 46,
+          "word": "take",
+          "originalText": "take",
+          "characterOffsetBegin": 852,
+          "characterOffsetEnd": 856,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 47,
+          "word": "antibiotics",
+          "originalText": "antibiotics",
+          "characterOffsetBegin": 857,
+          "characterOffsetEnd": 868,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 48,
+          "word": "for",
+          "originalText": "for",
+          "characterOffsetBegin": 869,
+          "characterOffsetEnd": 872,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 49,
+          "word": "reoccuring",
+          "originalText": "reoccuring",
+          "characterOffsetBegin": 873,
+          "characterOffsetEnd": 883,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 50,
+          "word": "sinus",
+          "originalText": "sinus",
+          "characterOffsetBegin": 884,
+          "characterOffsetEnd": 889,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 51,
+          "word": "infections",
+          "originalText": "infections",
+          "characterOffsetBegin": 890,
+          "characterOffsetEnd": 900,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 52,
+          "word": ".",
+          "originalText": ".",
+          "characterOffsetBegin": 900,
+          "characterOffsetEnd": 901,
+          "before": "",
+          "after": " "
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "tokens": [
+        {
+          "index": 1,
+          "word": "As",
+          "originalText": "As",
+          "characterOffsetBegin": 902,
+          "characterOffsetEnd": 904,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "a",
+          "originalText": "a",
+          "characterOffsetBegin": 905,
+          "characterOffsetEnd": 906,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "result",
+          "originalText": "result",
+          "characterOffsetBegin": 907,
+          "characterOffsetEnd": 913,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 4,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 913,
+          "characterOffsetEnd": 914,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "I",
+          "originalText": "I",
+          "characterOffsetBegin": 915,
+          "characterOffsetEnd": 916,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "became",
+          "originalText": "became",
+          "characterOffsetBegin": 917,
+          "characterOffsetEnd": 923,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 7,
+          "word": "resistent",
+          "originalText": "resistent",
+          "characterOffsetBegin": 924,
+          "characterOffsetEnd": 933,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 8,
+          "word": "to",
+          "originalText": "to",
+          "characterOffsetBegin": 934,
+          "characterOffsetEnd": 936,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 9,
+          "word": "many",
+          "originalText": "many",
+          "characterOffsetBegin": 937,
+          "characterOffsetEnd": 941,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 10,
+          "word": "antibiotics",
+          "originalText": "antibiotics",
+          "characterOffsetBegin": 942,
+          "characterOffsetEnd": 953,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 11,
+          "word": "and",
+          "originalText": "and",
+          "characterOffsetBegin": 954,
+          "characterOffsetEnd": 957,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 12,
+          "word": "began",
+          "originalText": "began",
+          "characterOffsetBegin": 958,
+          "characterOffsetEnd": 963,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 13,
+          "word": "getting",
+          "originalText": "getting",
+          "characterOffsetBegin": 964,
+          "characterOffsetEnd": 971,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 14,
+          "word": "MRSA",
+          "originalText": "MRSA",
+          "characterOffsetBegin": 972,
+          "characterOffsetEnd": 976,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 15,
+          "word": "sinus",
+          "originalText": "sinus",
+          "characterOffsetBegin": 977,
+          "characterOffsetEnd": 982,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 16,
+          "word": "infections",
+          "originalText": "infections",
+          "characterOffsetBegin": 983,
+          "characterOffsetEnd": 993,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 17,
+          "word": ".",
+          "originalText": ".",
+          "characterOffsetBegin": 993,
+          "characterOffsetEnd": 994,
+          "before": "",
+          "after": " "
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "tokens": [
+        {
+          "index": 1,
+          "word": "I",
+          "originalText": "I",
+          "characterOffsetBegin": 995,
+          "characterOffsetEnd": 996,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "learned",
+          "originalText": "learned",
+          "characterOffsetBegin": 997,
+          "characterOffsetEnd": 1004,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "about",
+          "originalText": "about",
+          "characterOffsetBegin": 1005,
+          "characterOffsetEnd": 1010,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "the",
+          "originalText": "the",
+          "characterOffsetBegin": 1011,
+          "characterOffsetEnd": 1014,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "healing",
+          "originalText": "healing",
+          "characterOffsetBegin": 1015,
+          "characterOffsetEnd": 1022,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "value",
+          "originalText": "value",
+          "characterOffsetBegin": 1023,
+          "characterOffsetEnd": 1028,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 7,
+          "word": "of",
+          "originalText": "of",
+          "characterOffsetBegin": 1029,
+          "characterOffsetEnd": 1031,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 8,
+          "word": "honey",
+          "originalText": "honey",
+          "characterOffsetBegin": 1032,
+          "characterOffsetEnd": 1037,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 9,
+          "word": "against",
+          "originalText": "against",
+          "characterOffsetBegin": 1038,
+          "characterOffsetEnd": 1045,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 10,
+          "word": "bacteria",
+          "originalText": "bacteria",
+          "characterOffsetBegin": 1046,
+          "characterOffsetEnd": 1054,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 11,
+          "word": "and",
+          "originalText": "and",
+          "characterOffsetBegin": 1055,
+          "characterOffsetEnd": 1058,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 12,
+          "word": "began",
+          "originalText": "began",
+          "characterOffsetBegin": 1059,
+          "characterOffsetEnd": 1064,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 13,
+          "word": "using",
+          "originalText": "using",
+          "characterOffsetBegin": 1065,
+          "characterOffsetEnd": 1070,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 14,
+          "word": "it",
+          "originalText": "it",
+          "characterOffsetBegin": 1071,
+          "characterOffsetEnd": 1073,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 15,
+          "word": "for",
+          "originalText": "for",
+          "characterOffsetBegin": 1074,
+          "characterOffsetEnd": 1077,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 16,
+          "word": "irrigating",
+          "originalText": "irrigating",
+          "characterOffsetBegin": 1078,
+          "characterOffsetEnd": 1088,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 17,
+          "word": "my",
+          "originalText": "my",
+          "characterOffsetBegin": 1089,
+          "characterOffsetEnd": 1091,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 18,
+          "word": "sinuses",
+          "originalText": "sinuses",
+          "characterOffsetBegin": 1092,
+          "characterOffsetEnd": 1099,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 19,
+          "word": "twice",
+          "originalText": "twice",
+          "characterOffsetBegin": 1100,
+          "characterOffsetEnd": 1105,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 20,
+          "word": "daily",
+          "originalText": "daily",
+          "characterOffsetBegin": 1106,
+          "characterOffsetEnd": 1111,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 21,
+          "word": ".",
+          "originalText": ".",
+          "characterOffsetBegin": 1111,
+          "characterOffsetEnd": 1112,
+          "before": "",
+          "after": " "
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "tokens": [
+        {
+          "index": 1,
+          "word": "It",
+          "originalText": "It",
+          "characterOffsetBegin": 1113,
+          "characterOffsetEnd": 1115,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "does",
+          "originalText": "does",
+          "characterOffsetBegin": 1116,
+          "characterOffsetEnd": 1120,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 3,
+          "word": "n't",
+          "originalText": "n't",
+          "characterOffsetBegin": 1120,
+          "characterOffsetEnd": 1123,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "totally",
+          "originalText": "totally",
+          "characterOffsetBegin": 1124,
+          "characterOffsetEnd": 1131,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "cure",
+          "originalText": "cure",
+          "characterOffsetBegin": 1132,
+          "characterOffsetEnd": 1136,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "the",
+          "originalText": "the",
+          "characterOffsetBegin": 1137,
+          "characterOffsetEnd": 1140,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 7,
+          "word": "infections",
+          "originalText": "infections",
+          "characterOffsetBegin": 1141,
+          "characterOffsetEnd": 1151,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 8,
+          "word": "but",
+          "originalText": "but",
+          "characterOffsetBegin": 1152,
+          "characterOffsetEnd": 1155,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 9,
+          "word": "it",
+          "originalText": "it",
+          "characterOffsetBegin": 1156,
+          "characterOffsetEnd": 1158,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 10,
+          "word": "does",
+          "originalText": "does",
+          "characterOffsetBegin": 1159,
+          "characterOffsetEnd": 1163,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 11,
+          "word": "help",
+          "originalText": "help",
+          "characterOffsetBegin": 1164,
+          "characterOffsetEnd": 1168,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 12,
+          "word": "make",
+          "originalText": "make",
+          "characterOffsetBegin": 1169,
+          "characterOffsetEnd": 1173,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 13,
+          "word": "them",
+          "originalText": "them",
+          "characterOffsetBegin": 1174,
+          "characterOffsetEnd": 1178,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 14,
+          "word": "more",
+          "originalText": "more",
+          "characterOffsetBegin": 1179,
+          "characterOffsetEnd": 1183,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 15,
+          "word": "manageable",
+          "originalText": "manageable",
+          "characterOffsetBegin": 1184,
+          "characterOffsetEnd": 1194,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 16,
+          "word": "as",
+          "originalText": "as",
+          "characterOffsetBegin": 1195,
+          "characterOffsetEnd": 1197,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 17,
+          "word": "this",
+          "originalText": "this",
+          "characterOffsetBegin": 1198,
+          "characterOffsetEnd": 1202,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 18,
+          "word": "is",
+          "originalText": "is",
+          "characterOffsetBegin": 1203,
+          "characterOffsetEnd": 1205,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 19,
+          "word": "one",
+          "originalText": "one",
+          "characterOffsetBegin": 1206,
+          "characterOffsetEnd": 1209,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 20,
+          "word": "of",
+          "originalText": "of",
+          "characterOffsetBegin": 1210,
+          "characterOffsetEnd": 1212,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 21,
+          "word": "those",
+          "originalText": "those",
+          "characterOffsetBegin": 1213,
+          "characterOffsetEnd": 1218,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 22,
+          "word": "chronic",
+          "originalText": "chronic",
+          "characterOffsetBegin": 1219,
+          "characterOffsetEnd": 1226,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 23,
+          "word": "conditions",
+          "originalText": "conditions",
+          "characterOffsetBegin": 1227,
+          "characterOffsetEnd": 1237,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 24,
+          "word": "that",
+          "originalText": "that",
+          "characterOffsetBegin": 1238,
+          "characterOffsetEnd": 1242,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 25,
+          "word": "people",
+          "originalText": "people",
+          "characterOffsetBegin": 1243,
+          "characterOffsetEnd": 1249,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 26,
+          "word": "sometimes",
+          "originalText": "sometimes",
+          "characterOffsetBegin": 1250,
+          "characterOffsetEnd": 1259,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 27,
+          "word": "have",
+          "originalText": "have",
+          "characterOffsetBegin": 1260,
+          "characterOffsetEnd": 1264,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 28,
+          "word": "to",
+          "originalText": "to",
+          "characterOffsetBegin": 1265,
+          "characterOffsetEnd": 1267,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 29,
+          "word": "live",
+          "originalText": "live",
+          "characterOffsetBegin": 1268,
+          "characterOffsetEnd": 1272,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 30,
+          "word": "with",
+          "originalText": "with",
+          "characterOffsetBegin": 1273,
+          "characterOffsetEnd": 1277,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 31,
+          "word": ".",
+          "originalText": ".",
+          "characterOffsetBegin": 1277,
+          "characterOffsetEnd": 1278,
+          "before": "",
+          "after": " "
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "tokens": [
+        {
+          "index": 1,
+          "word": "Sharon",
+          "originalText": "Sharon",
+          "characterOffsetBegin": 1279,
+          "characterOffsetEnd": 1285,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "RasmussenMy",
+          "originalText": "RasmussenMy",
+          "characterOffsetBegin": 1286,
+          "characterOffsetEnd": 1297,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "wife",
+          "originalText": "wife",
+          "characterOffsetBegin": 1298,
+          "characterOffsetEnd": 1302,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "and",
+          "originalText": "and",
+          "characterOffsetBegin": 1303,
+          "characterOffsetEnd": 1306,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "I",
+          "originalText": "I",
+          "characterOffsetBegin": 1307,
+          "characterOffsetEnd": 1308,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "wanted",
+          "originalText": "wanted",
+          "characterOffsetBegin": 1309,
+          "characterOffsetEnd": 1315,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 7,
+          "word": "to",
+          "originalText": "to",
+          "characterOffsetBegin": 1316,
+          "characterOffsetEnd": 1318,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 8,
+          "word": "try",
+          "originalText": "try",
+          "characterOffsetBegin": 1319,
+          "characterOffsetEnd": 1322,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 9,
+          "word": "the",
+          "originalText": "the",
+          "characterOffsetBegin": 1323,
+          "characterOffsetEnd": 1326,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 10,
+          "word": "honey",
+          "originalText": "honey",
+          "characterOffsetBegin": 1327,
+          "characterOffsetEnd": 1332,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 11,
+          "word": "everyone",
+          "originalText": "everyone",
+          "characterOffsetBegin": 1333,
+          "characterOffsetEnd": 1341,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 12,
+          "word": "was",
+          "originalText": "was",
+          "characterOffsetBegin": 1342,
+          "characterOffsetEnd": 1345,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 13,
+          "word": "talking",
+          "originalText": "talking",
+          "characterOffsetBegin": 1346,
+          "characterOffsetEnd": 1353,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 14,
+          "word": "about",
+          "originalText": "about",
+          "characterOffsetBegin": 1354,
+          "characterOffsetEnd": 1359,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 15,
+          "word": "but",
+          "originalText": "but",
+          "characterOffsetBegin": 1360,
+          "characterOffsetEnd": 1363,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 16,
+          "word": "we",
+          "originalText": "we",
+          "characterOffsetBegin": 1364,
+          "characterOffsetEnd": 1366,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 17,
+          "word": "did",
+          "originalText": "did",
+          "characterOffsetBegin": 1367,
+          "characterOffsetEnd": 1370,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 18,
+          "word": "n't",
+          "originalText": "n't",
+          "characterOffsetBegin": 1370,
+          "characterOffsetEnd": 1373,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 19,
+          "word": "want",
+          "originalText": "want",
+          "characterOffsetBegin": 1374,
+          "characterOffsetEnd": 1378,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 20,
+          "word": "to",
+          "originalText": "to",
+          "characterOffsetBegin": 1379,
+          "characterOffsetEnd": 1381,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 21,
+          "word": "spend",
+          "originalText": "spend",
+          "characterOffsetBegin": 1382,
+          "characterOffsetEnd": 1387,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 22,
+          "word": "a",
+          "originalText": "a",
+          "characterOffsetBegin": 1388,
+          "characterOffsetEnd": 1389,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 23,
+          "word": "lot",
+          "originalText": "lot",
+          "characterOffsetBegin": 1390,
+          "characterOffsetEnd": 1393,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 24,
+          "word": "of",
+          "originalText": "of",
+          "characterOffsetBegin": 1394,
+          "characterOffsetEnd": 1396,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 25,
+          "word": "money",
+          "originalText": "money",
+          "characterOffsetBegin": 1397,
+          "characterOffsetEnd": 1402,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 26,
+          "word": ".",
+          "originalText": ".",
+          "characterOffsetBegin": 1402,
+          "characterOffsetEnd": 1403,
+          "before": "",
+          "after": " "
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "tokens": [
+        {
+          "index": 1,
+          "word": "We",
+          "originalText": "We",
+          "characterOffsetBegin": 1404,
+          "characterOffsetEnd": 1406,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "found",
+          "originalText": "found",
+          "characterOffsetBegin": 1407,
+          "characterOffsetEnd": 1412,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "this",
+          "originalText": "this",
+          "characterOffsetBegin": 1413,
+          "characterOffsetEnd": 1417,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "great",
+          "originalText": "great",
+          "characterOffsetBegin": 1418,
+          "characterOffsetEnd": 1423,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "deal",
+          "originalText": "deal",
+          "characterOffsetBegin": 1424,
+          "characterOffsetEnd": 1428,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "and",
+          "originalText": "and",
+          "characterOffsetBegin": 1429,
+          "characterOffsetEnd": 1432,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 7,
+          "word": "were",
+          "originalText": "were",
+          "characterOffsetBegin": 1433,
+          "characterOffsetEnd": 1437,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 8,
+          "word": "both",
+          "originalText": "both",
+          "characterOffsetBegin": 1438,
+          "characterOffsetEnd": 1442,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 9,
+          "word": "very",
+          "originalText": "very",
+          "characterOffsetBegin": 1443,
+          "characterOffsetEnd": 1447,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 10,
+          "word": "happy",
+          "originalText": "happy",
+          "characterOffsetBegin": 1448,
+          "characterOffsetEnd": 1453,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 11,
+          "word": "with",
+          "originalText": "with",
+          "characterOffsetBegin": 1454,
+          "characterOffsetEnd": 1458,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 12,
+          "word": "the",
+          "originalText": "the",
+          "characterOffsetBegin": 1459,
+          "characterOffsetEnd": 1462,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 13,
+          "word": "product",
+          "originalText": "product",
+          "characterOffsetBegin": 1463,
+          "characterOffsetEnd": 1470,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 14,
+          "word": ";",
+          "originalText": ";",
+          "characterOffsetBegin": 1470,
+          "characterOffsetEnd": 1471,
+          "before": "",
+          "after": ""
+        },
+        {
+          "index": 15,
+          "word": "it",
+          "originalText": "it",
+          "characterOffsetBegin": 1471,
+          "characterOffsetEnd": 1473,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 16,
+          "word": "has",
+          "originalText": "has",
+          "characterOffsetBegin": 1474,
+          "characterOffsetEnd": 1477,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 17,
+          "word": "a",
+          "originalText": "a",
+          "characterOffsetBegin": 1478,
+          "characterOffsetEnd": 1479,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 18,
+          "word": "great",
+          "originalText": "great",
+          "characterOffsetBegin": 1480,
+          "characterOffsetEnd": 1485,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 19,
+          "word": "taste",
+          "originalText": "taste",
+          "characterOffsetBegin": 1486,
+          "characterOffsetEnd": 1491,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 20,
+          "word": "and",
+          "originalText": "and",
+          "characterOffsetBegin": 1492,
+          "characterOffsetEnd": 1495,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 21,
+          "word": "I",
+          "originalText": "I",
+          "characterOffsetBegin": 1496,
+          "characterOffsetEnd": 1497,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 22,
+          "word": "have",
+          "originalText": "have",
+          "characterOffsetBegin": 1498,
+          "characterOffsetEnd": 1502,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 23,
+          "word": "been",
+          "originalText": "been",
+          "characterOffsetBegin": 1503,
+          "characterOffsetEnd": 1507,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 24,
+          "word": "using",
+          "originalText": "using",
+          "characterOffsetBegin": 1508,
+          "characterOffsetEnd": 1513,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 25,
+          "word": "it",
+          "originalText": "it",
+          "characterOffsetBegin": 1514,
+          "characterOffsetEnd": 1516,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 26,
+          "word": "as",
+          "originalText": "as",
+          "characterOffsetBegin": 1517,
+          "characterOffsetEnd": 1519,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 27,
+          "word": "a",
+          "originalText": "a",
+          "characterOffsetBegin": 1520,
+          "characterOffsetEnd": 1521,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 28,
+          "word": "sweetener",
+          "originalText": "sweetener",
+          "characterOffsetBegin": 1522,
+          "characterOffsetEnd": 1531,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 29,
+          "word": "on",
+          "originalText": "on",
+          "characterOffsetBegin": 1532,
+          "characterOffsetEnd": 1534,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 30,
+          "word": "my",
+          "originalText": "my",
+          "characterOffsetBegin": 1535,
+          "characterOffsetEnd": 1537,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 31,
+          "word": "cereal",
+          "originalText": "cereal",
+          "characterOffsetBegin": 1538,
+          "characterOffsetEnd": 1544,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 32,
+          "word": ";",
+          "originalText": ";",
+          "characterOffsetBegin": 1544,
+          "characterOffsetEnd": 1545,
+          "before": "",
+          "after": ""
+        },
+        {
+          "index": 33,
+          "word": "much",
+          "originalText": "much",
+          "characterOffsetBegin": 1545,
+          "characterOffsetEnd": 1549,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 34,
+          "word": "better",
+          "originalText": "better",
+          "characterOffsetBegin": 1550,
+          "characterOffsetEnd": 1556,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 35,
+          "word": "for",
+          "originalText": "for",
+          "characterOffsetBegin": 1557,
+          "characterOffsetEnd": 1560,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 36,
+          "word": "you",
+          "originalText": "you",
+          "characterOffsetBegin": 1561,
+          "characterOffsetEnd": 1564,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 37,
+          "word": "than",
+          "originalText": "than",
+          "characterOffsetBegin": 1565,
+          "characterOffsetEnd": 1569,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 38,
+          "word": "sugar",
+          "originalText": "sugar",
+          "characterOffsetBegin": 1570,
+          "characterOffsetEnd": 1575,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 39,
+          "word": ".",
+          "originalText": ".",
+          "characterOffsetBegin": 1575,
+          "characterOffsetEnd": 1576,
+          "before": "",
+          "after": " "
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "tokens": [
+        {
+          "index": 1,
+          "word": "Thanks!read",
+          "originalText": "Thanks!read",
+          "characterOffsetBegin": 1577,
+          "characterOffsetEnd": 1588,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "about",
+          "originalText": "about",
+          "characterOffsetBegin": 1589,
+          "characterOffsetEnd": 1594,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "manuka",
+          "originalText": "manuka",
+          "characterOffsetBegin": 1595,
+          "characterOffsetEnd": 1601,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "honey",
+          "originalText": "honey",
+          "characterOffsetBegin": 1602,
+          "characterOffsetEnd": 1607,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "online",
+          "originalText": "online",
+          "characterOffsetBegin": 1608,
+          "characterOffsetEnd": 1614,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 6,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 1614,
+          "characterOffsetEnd": 1615,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 7,
+          "word": "and",
+          "originalText": "and",
+          "characterOffsetBegin": 1616,
+          "characterOffsetEnd": 1619,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 8,
+          "word": "have",
+          "originalText": "have",
+          "characterOffsetBegin": 1620,
+          "characterOffsetEnd": 1624,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 9,
+          "word": "bought",
+          "originalText": "bought",
+          "characterOffsetBegin": 1625,
+          "characterOffsetEnd": 1631,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 10,
+          "word": "this",
+          "originalText": "this",
+          "characterOffsetBegin": 1632,
+          "characterOffsetEnd": 1636,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 11,
+          "word": "brand",
+          "originalText": "brand",
+          "characterOffsetBegin": 1637,
+          "characterOffsetEnd": 1642,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 12,
+          "word": "ever",
+          "originalText": "ever",
+          "characterOffsetBegin": 1643,
+          "characterOffsetEnd": 1647,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 13,
+          "word": "since",
+          "originalText": "since",
+          "characterOffsetBegin": 1648,
+          "characterOffsetEnd": 1653,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 14,
+          "word": "then",
+          "originalText": "then",
+          "characterOffsetBegin": 1654,
+          "characterOffsetEnd": 1658,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 15,
+          "word": ".",
+          "originalText": ".",
+          "characterOffsetBegin": 1658,
+          "characterOffsetEnd": 1659,
+          "before": "",
+          "after": "  "
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "tokens": [
+        {
+          "index": 1,
+          "word": "tastes",
+          "originalText": "tastes",
+          "characterOffsetBegin": 1661,
+          "characterOffsetEnd": 1667,
+          "before": "  ",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "great",
+          "originalText": "great",
+          "characterOffsetBegin": 1668,
+          "characterOffsetEnd": 1673,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 3,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 1673,
+          "characterOffsetEnd": 1674,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "and",
+          "originalText": "and",
+          "characterOffsetBegin": 1675,
+          "characterOffsetEnd": 1678,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "is",
+          "originalText": "is",
+          "characterOffsetBegin": 1679,
+          "characterOffsetEnd": 1681,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "amazing",
+          "originalText": "amazing",
+          "characterOffsetBegin": 1682,
+          "characterOffsetEnd": 1689,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 7,
+          "word": "for",
+          "originalText": "for",
+          "characterOffsetBegin": 1690,
+          "characterOffsetEnd": 1693,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 8,
+          "word": "skin",
+          "originalText": "skin",
+          "characterOffsetBegin": 1694,
+          "characterOffsetEnd": 1698,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 9,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 1698,
+          "characterOffsetEnd": 1699,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 10,
+          "word": "tummy",
+          "originalText": "tummy",
+          "characterOffsetBegin": 1700,
+          "characterOffsetEnd": 1705,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 11,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 1705,
+          "characterOffsetEnd": 1706,
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 12,
+          "word": "etc.",
+          "originalText": "etc",
+          "characterOffsetBegin": 1707,
+          "characterOffsetEnd": 1710,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 13,
+          "word": ".",
+          "originalText": ".",
+          "characterOffsetBegin": 1710,
+          "characterOffsetEnd": 1711,
+          "before": "",
+          "after": "  "
+        }
+      ]
+    },
+    {
+      "index": 13,
+      "tokens": [
+        {
+          "index": 1,
+          "word": "love",
+          "originalText": "love",
+          "characterOffsetBegin": 1713,
+          "characterOffsetEnd": 1717,
+          "before": "  ",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "it",
+          "originalText": "it",
+          "characterOffsetBegin": 1718,
+          "characterOffsetEnd": 1720,
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 3,
+          "word": ".",
+          "originalText": ".",
+          "characterOffsetBegin": 1720,
+          "characterOffsetEnd": 1721,
+          "before": "",
+          "after": "\n"
+        }
+      ]
+    },
+    {
+      "index": 14,
+      "tokens": [
+        {
+          "index": 1,
+          "word": "@highlight",
+          "originalText": "@highlight",
+          "characterOffsetBegin": 1723,
+          "characterOffsetEnd": 1733,
+          "before": "\n",
+          "after": "\n"
+        }
+      ]
+    },
+    {
+      "index": 15,
+      "tokens": [
+        {
+          "index": 1,
+          "word": "best",
+          "originalText": "best",
+          "characterOffsetBegin": 1735,
+          "characterOffsetEnd": 1739,
+          "before": "\n",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "of",
+          "originalText": "of",
+          "characterOffsetBegin": 1740,
+          "characterOffsetEnd": 1742,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "the",
+          "originalText": "the",
+          "characterOffsetBegin": 1743,
+          "characterOffsetEnd": 1746,
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "best",
+          "originalText": "best",
+          "characterOffsetBegin": 1747,
+          "characterOffsetEnd": 1751,
+          "before": " ",
+          "after": "\n"
+        }
+      ]
+    },
+    {
+      "index": 16,
+      "tokens": [
+        {
+          "index": 1,
+          "word": "@highlight",
+          "originalText": "@highlight",
+          "characterOffsetBegin": 1753,
+          "characterOffsetEnd": 1763,
+          "before": "\n",
+          "after": "\n"
+        }
+      ]
+    },
+    {
+      "index": 17,
+      "tokens": [
+        {
+          "index": 1,
+          "word": "great",
+          "originalText": "great",
+          "characterOffsetBegin": 1765,
+          "characterOffsetEnd": 1770,
+          "before": "\n",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "deal",
+          "originalText": "deal",
+          "characterOffsetBegin": 1771,
+          "characterOffsetEnd": 1775,
+          "before": " ",
+          "after": ""
+        }
+      ]
+    }
+  ]
+}

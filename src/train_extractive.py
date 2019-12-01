@@ -20,6 +20,8 @@ from models.model_builder import ExtSummarizer
 from models.trainer_ext import build_trainer
 from others.logging import logger, init_logger
 
+import pdb
+
 model_flags = ['hidden_size', 'ff_size', 'heads', 'inter_layers', 'encoder', 'ff_actv', 'use_interval', 'rnn_size']
 
 
@@ -105,8 +107,10 @@ class ErrorHandler(object):
 
 def validate_ext(args, device_id):
     timestep = 0
+    FILE_PATH = 'model_step_*.pt'
+    #FILE_PATH = 'bertext_cnndm_transformer*.pt'
     if (args.test_all):
-        cp_files = sorted(glob.glob(os.path.join(args.model_path, 'model_step_*.pt')))
+        cp_files = sorted(glob.glob(os.path.join(args.model_path, FILE_PATH)))
         cp_files.sort(key=os.path.getmtime)
         xent_lst = []
         for i, cp in enumerate(cp_files):
@@ -123,28 +127,32 @@ def validate_ext(args, device_id):
             test_ext(args, device_id, cp, step)
     else:
         while (True):
-            cp_files = sorted(glob.glob(os.path.join(args.model_path, 'model_step_*.pt')))
+            cp_files = sorted(glob.glob(os.path.join(args.model_path, FILE_PATH)))
             cp_files.sort(key=os.path.getmtime)
             if (cp_files):
                 cp = cp_files[-1]
                 time_of_cp = os.path.getmtime(cp)
                 if (not os.path.getsize(cp) > 0):
+                    print("will sleep 60", os.path.getsize(cp))
                     time.sleep(60)
                     continue
                 if (time_of_cp > timestep):
                     timestep = time_of_cp
+                    step = 0
                     step = int(cp.split('.')[-2].split('_')[-1])
                     validate(args, device_id, cp, step)
                     test_ext(args, device_id, cp, step)
 
-            cp_files = sorted(glob.glob(os.path.join(args.model_path, 'model_step_*.pt')))
+            cp_files = sorted(glob.glob(os.path.join(args.model_path, FILE_PATH)))
             cp_files.sort(key=os.path.getmtime)
             if (cp_files):
                 cp = cp_files[-1]
                 time_of_cp = os.path.getmtime(cp)
                 if (time_of_cp > timestep):
                     continue
+                return
             else:
+                print("will sleep 300", cp_files)
                 time.sleep(300)
 
 
