@@ -1,0 +1,264 @@
+[2019-11-30 16:04:21,526 INFO] Loading checkpoint from ../models/bertext_cnndm_transformer.valid.1.pt
+[2019-11-30 16:04:25,388 INFO] loading configuration file https://s3.amazonaws.com/models.huggingface.co/bert/bert-base-uncased-config.json from cache at ../temp/4dad0251492946e18ac39290fcfe91b89d370fee250efe9521476438fe8ca185.bf3b9ea126d8c0001ee8a1e8b92229871d06d36d8808208cc2449280da87785c
+[2019-11-30 16:04:25,390 INFO] Model config {
+  "attention_probs_dropout_prob": 0.1,
+  "finetuning_task": null,
+  "hidden_act": "gelu",
+  "hidden_dropout_prob": 0.1,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "layer_norm_eps": 1e-12,
+  "max_position_embeddings": 512,
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "num_labels": 2,
+  "output_attentions": false,
+  "output_hidden_states": false,
+  "pruned_heads": {},
+  "torchscript": false,
+  "type_vocab_size": 2,
+  "vocab_size": 30522
+}
+
+[2019-11-30 16:04:25,692 INFO] loading weights file https://s3.amazonaws.com/models.huggingface.co/bert/bert-base-uncased-pytorch_model.bin from cache at ../temp/aa1ef1aede4482d0dbcd4d52baad8ae300e60902e88fcb0bebdec09afd232066.36ca03ab34a1a5d5fa7bc3d03d55c4fa650fed07220e2eeebc06ce58d0e9a157
+[2019-11-30 16:04:30,189 INFO] Loading valid dataset from ../bert_data/amazon_food_review.valid.0.bert.pt, number of examples: 17
+[2019-11-30 16:04:30,201 INFO] * number of parameters: 120512513
+[2019-11-30 16:04:57,373 INFO] Validation xent: 4.24776 at step 0
+[2019-11-30 16:04:57,743 INFO] Loading checkpoint from ../models/bertext_cnndm_transformer.valid.1.pt
+[2019-11-30 16:04:59,895 INFO] loading configuration file https://s3.amazonaws.com/models.huggingface.co/bert/bert-base-uncased-config.json from cache at ../temp/4dad0251492946e18ac39290fcfe91b89d370fee250efe9521476438fe8ca185.bf3b9ea126d8c0001ee8a1e8b92229871d06d36d8808208cc2449280da87785c
+[2019-11-30 16:04:59,897 INFO] Model config {
+  "attention_probs_dropout_prob": 0.1,
+  "finetuning_task": null,
+  "hidden_act": "gelu",
+  "hidden_dropout_prob": 0.1,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "layer_norm_eps": 1e-12,
+  "max_position_embeddings": 512,
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "num_labels": 2,
+  "output_attentions": false,
+  "output_hidden_states": false,
+  "pruned_heads": {},
+  "torchscript": false,
+  "type_vocab_size": 2,
+  "vocab_size": 30522
+}
+
+[2019-11-30 16:05:00,197 INFO] loading weights file https://s3.amazonaws.com/models.huggingface.co/bert/bert-base-uncased-pytorch_model.bin from cache at ../temp/aa1ef1aede4482d0dbcd4d52baad8ae300e60902e88fcb0bebdec09afd232066.36ca03ab34a1a5d5fa7bc3d03d55c4fa650fed07220e2eeebc06ce58d0e9a157
+[2019-11-30 16:05:04,759 INFO] Loading test dataset from ../bert_data/amazon_food_review.test.0.bert.pt, number of examples: 19
+[2019-11-30 16:05:04,774 INFO] * number of parameters: 120512513
+[2019-11-30 16:05:41,429 INFO] Writing summaries.
+[2019-11-30 16:05:41,430 INFO] Processing summaries. Saving system files to ../temp/tmp1yuz8c4v/system and model files to ../temp/tmp1yuz8c4v/model.
+[2019-11-30 16:05:41,430 INFO] Processing files in ../temp/rouge-tmp-2019-11-30-16-05-41/candidate/.
+[2019-11-30 16:05:41,447 INFO] Saved processed files to ../temp/tmp1yuz8c4v/system.
+[2019-11-30 16:05:41,448 INFO] Processing files in ../temp/rouge-tmp-2019-11-30-16-05-41/reference/.
+[2019-11-30 16:05:41,460 INFO] Saved processed files to ../temp/tmp1yuz8c4v/model.
+[2019-11-30 16:05:41,462 INFO] Written ROUGE configuration to ../temp/tmpulx7mket/rouge_conf.xml
+[2019-11-30 16:05:41,462 INFO] Running ROUGE with command /Users/wangqiwen/Documents/cs221/project/pyrouge/tools/ROUGE-1.5.5/ROUGE-1.5.5.pl -e /Users/wangqiwen/Documents/cs221/project/pyrouge/tools/ROUGE-1.5.5/data -c 95 -m -r 1000 -n 2 -a ../temp/tmpulx7mket/rouge_conf.xml
+[2019-11-30 16:05:41,826 INFO] Rouges at step 0 
+>> ROUGE-F(1/2/3/l): 9.57/2.10/9.14
+ROUGE-R(1/2/3/l): 49.86/15.51/47.19
+
+[2019-11-30 16:05:41,826 INFO] Validation xent: 3.62685 at step 0
+[2019-11-30 16:22:53,165 INFO] Loading checkpoint from ../models/bertext_cnndm_transformer.valid.1.pt
+[2019-11-30 16:22:57,465 INFO] loading configuration file https://s3.amazonaws.com/models.huggingface.co/bert/bert-base-uncased-config.json from cache at ../temp/4dad0251492946e18ac39290fcfe91b89d370fee250efe9521476438fe8ca185.bf3b9ea126d8c0001ee8a1e8b92229871d06d36d8808208cc2449280da87785c
+[2019-11-30 16:22:57,467 INFO] Model config {
+  "attention_probs_dropout_prob": 0.1,
+  "finetuning_task": null,
+  "hidden_act": "gelu",
+  "hidden_dropout_prob": 0.1,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "layer_norm_eps": 1e-12,
+  "max_position_embeddings": 512,
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "num_labels": 2,
+  "output_attentions": false,
+  "output_hidden_states": false,
+  "pruned_heads": {},
+  "torchscript": false,
+  "type_vocab_size": 2,
+  "vocab_size": 30522
+}
+
+[2019-11-30 16:22:57,846 INFO] loading weights file https://s3.amazonaws.com/models.huggingface.co/bert/bert-base-uncased-pytorch_model.bin from cache at ../temp/aa1ef1aede4482d0dbcd4d52baad8ae300e60902e88fcb0bebdec09afd232066.36ca03ab34a1a5d5fa7bc3d03d55c4fa650fed07220e2eeebc06ce58d0e9a157
+[2019-11-30 16:23:04,694 INFO] Loading valid dataset from ../bert_data/amazon_food_review.valid.0.bert.pt, number of examples: 17
+[2019-11-30 16:23:04,716 INFO] * number of parameters: 120512513
+[2019-11-30 16:23:31,641 INFO] Validation xent: 4.24776 at step 0
+[2019-11-30 16:23:31,976 INFO] Loading checkpoint from ../models/bertext_cnndm_transformer.valid.1.pt
+[2019-11-30 16:23:34,084 INFO] loading configuration file https://s3.amazonaws.com/models.huggingface.co/bert/bert-base-uncased-config.json from cache at ../temp/4dad0251492946e18ac39290fcfe91b89d370fee250efe9521476438fe8ca185.bf3b9ea126d8c0001ee8a1e8b92229871d06d36d8808208cc2449280da87785c
+[2019-11-30 16:23:34,086 INFO] Model config {
+  "attention_probs_dropout_prob": 0.1,
+  "finetuning_task": null,
+  "hidden_act": "gelu",
+  "hidden_dropout_prob": 0.1,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "layer_norm_eps": 1e-12,
+  "max_position_embeddings": 512,
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "num_labels": 2,
+  "output_attentions": false,
+  "output_hidden_states": false,
+  "pruned_heads": {},
+  "torchscript": false,
+  "type_vocab_size": 2,
+  "vocab_size": 30522
+}
+
+[2019-11-30 16:23:34,382 INFO] loading weights file https://s3.amazonaws.com/models.huggingface.co/bert/bert-base-uncased-pytorch_model.bin from cache at ../temp/aa1ef1aede4482d0dbcd4d52baad8ae300e60902e88fcb0bebdec09afd232066.36ca03ab34a1a5d5fa7bc3d03d55c4fa650fed07220e2eeebc06ce58d0e9a157
+[2019-11-30 16:23:38,568 INFO] Loading test dataset from ../bert_data/amazon_food_review.test.0.bert.pt, number of examples: 19
+[2019-11-30 16:23:38,577 INFO] * number of parameters: 120512513
+[2019-11-30 16:24:09,488 INFO] Writing summaries.
+[2019-11-30 16:24:09,490 INFO] Processing summaries. Saving system files to ../temp/tmpyrtsnem1/system and model files to ../temp/tmpyrtsnem1/model.
+[2019-11-30 16:24:09,491 INFO] Processing files in ../temp/rouge-tmp-2019-11-30-16-24-09/candidate/.
+[2019-11-30 16:24:09,514 INFO] Saved processed files to ../temp/tmpyrtsnem1/system.
+[2019-11-30 16:24:09,514 INFO] Processing files in ../temp/rouge-tmp-2019-11-30-16-24-09/reference/.
+[2019-11-30 16:24:09,533 INFO] Saved processed files to ../temp/tmpyrtsnem1/model.
+[2019-11-30 16:24:09,535 INFO] Written ROUGE configuration to ../temp/tmpc4r4anee/rouge_conf.xml
+[2019-11-30 16:24:09,535 INFO] Running ROUGE with command /Users/wangqiwen/Documents/cs221/project/pyrouge/tools/ROUGE-1.5.5/ROUGE-1.5.5.pl -e /Users/wangqiwen/Documents/cs221/project/pyrouge/tools/ROUGE-1.5.5/data -c 95 -m -r 1000 -n 2 -a ../temp/tmpc4r4anee/rouge_conf.xml
+[2019-11-30 16:24:10,011 INFO] Rouges at step 0 
+>> ROUGE-F(1/2/3/l): 54.67/1.01/54.45
+ROUGE-R(1/2/3/l): 74.45/7.43/73.15
+
+[2019-11-30 16:24:10,011 INFO] Validation xent: 3.62685 at step 0
+[2019-11-30 16:30:39,401 INFO] Loading checkpoint from ../models/bertext_cnndm_transformer.valid.1.pt
+[2019-11-30 16:30:41,954 INFO] loading configuration file https://s3.amazonaws.com/models.huggingface.co/bert/bert-base-uncased-config.json from cache at ../temp/4dad0251492946e18ac39290fcfe91b89d370fee250efe9521476438fe8ca185.bf3b9ea126d8c0001ee8a1e8b92229871d06d36d8808208cc2449280da87785c
+[2019-11-30 16:30:41,956 INFO] Model config {
+  "attention_probs_dropout_prob": 0.1,
+  "finetuning_task": null,
+  "hidden_act": "gelu",
+  "hidden_dropout_prob": 0.1,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "layer_norm_eps": 1e-12,
+  "max_position_embeddings": 512,
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "num_labels": 2,
+  "output_attentions": false,
+  "output_hidden_states": false,
+  "pruned_heads": {},
+  "torchscript": false,
+  "type_vocab_size": 2,
+  "vocab_size": 30522
+}
+
+[2019-11-30 16:30:42,259 INFO] loading weights file https://s3.amazonaws.com/models.huggingface.co/bert/bert-base-uncased-pytorch_model.bin from cache at ../temp/aa1ef1aede4482d0dbcd4d52baad8ae300e60902e88fcb0bebdec09afd232066.36ca03ab34a1a5d5fa7bc3d03d55c4fa650fed07220e2eeebc06ce58d0e9a157
+[2019-11-30 16:30:46,888 INFO] Loading valid dataset from ../bert_data/amazon_food_review.valid.0.bert.pt, number of examples: 17
+[2019-11-30 16:30:46,899 INFO] * number of parameters: 120512513
+[2019-11-30 16:31:14,049 INFO] Validation xent: 4.24776 at step 0
+[2019-11-30 16:31:14,373 INFO] Loading checkpoint from ../models/bertext_cnndm_transformer.valid.1.pt
+[2019-11-30 16:31:16,280 INFO] loading configuration file https://s3.amazonaws.com/models.huggingface.co/bert/bert-base-uncased-config.json from cache at ../temp/4dad0251492946e18ac39290fcfe91b89d370fee250efe9521476438fe8ca185.bf3b9ea126d8c0001ee8a1e8b92229871d06d36d8808208cc2449280da87785c
+[2019-11-30 16:31:16,281 INFO] Model config {
+  "attention_probs_dropout_prob": 0.1,
+  "finetuning_task": null,
+  "hidden_act": "gelu",
+  "hidden_dropout_prob": 0.1,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "layer_norm_eps": 1e-12,
+  "max_position_embeddings": 512,
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "num_labels": 2,
+  "output_attentions": false,
+  "output_hidden_states": false,
+  "pruned_heads": {},
+  "torchscript": false,
+  "type_vocab_size": 2,
+  "vocab_size": 30522
+}
+
+[2019-11-30 16:31:16,580 INFO] loading weights file https://s3.amazonaws.com/models.huggingface.co/bert/bert-base-uncased-pytorch_model.bin from cache at ../temp/aa1ef1aede4482d0dbcd4d52baad8ae300e60902e88fcb0bebdec09afd232066.36ca03ab34a1a5d5fa7bc3d03d55c4fa650fed07220e2eeebc06ce58d0e9a157
+[2019-11-30 16:31:20,469 INFO] Loading test dataset from ../bert_data/amazon_food_review.test.0.bert.pt, number of examples: 19
+[2019-11-30 16:31:20,477 INFO] * number of parameters: 120512513
+[2019-11-30 16:31:47,923 INFO] Writing summaries.
+[2019-11-30 16:31:47,925 INFO] Processing summaries. Saving system files to ../temp/tmprb7puxey/system and model files to ../temp/tmprb7puxey/model.
+[2019-11-30 16:31:47,926 INFO] Processing files in ../temp/rouge-tmp-2019-11-30-16-31-47/candidate/.
+[2019-11-30 16:31:47,946 INFO] Saved processed files to ../temp/tmprb7puxey/system.
+[2019-11-30 16:31:47,946 INFO] Processing files in ../temp/rouge-tmp-2019-11-30-16-31-47/reference/.
+[2019-11-30 16:31:47,963 INFO] Saved processed files to ../temp/tmprb7puxey/model.
+[2019-11-30 16:31:47,965 INFO] Written ROUGE configuration to ../temp/tmpffnlhk6i/rouge_conf.xml
+[2019-11-30 16:31:47,965 INFO] Running ROUGE with command /Users/wangqiwen/Documents/cs221/project/pyrouge/tools/ROUGE-1.5.5/ROUGE-1.5.5.pl -e /Users/wangqiwen/Documents/cs221/project/pyrouge/tools/ROUGE-1.5.5/data -c 95 -m -r 1000 -n 2 -a ../temp/tmpffnlhk6i/rouge_conf.xml
+[2019-11-30 16:31:48,361 INFO] Rouges at step 0 
+>> ROUGE-F(1/2/3/l): 54.67/1.01/54.45
+ROUGE-R(1/2/3/l): 74.45/7.43/73.15
+
+[2019-11-30 16:31:48,361 INFO] Validation xent: 3.62685 at step 0
+[2019-11-30 16:32:27,863 INFO] Loading checkpoint from ../models/bertext_cnndm_transformer.valid.1.pt
+[2019-11-30 16:32:29,833 INFO] loading configuration file https://s3.amazonaws.com/models.huggingface.co/bert/bert-base-uncased-config.json from cache at ../temp/4dad0251492946e18ac39290fcfe91b89d370fee250efe9521476438fe8ca185.bf3b9ea126d8c0001ee8a1e8b92229871d06d36d8808208cc2449280da87785c
+[2019-11-30 16:32:29,843 INFO] Model config {
+  "attention_probs_dropout_prob": 0.1,
+  "finetuning_task": null,
+  "hidden_act": "gelu",
+  "hidden_dropout_prob": 0.1,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "layer_norm_eps": 1e-12,
+  "max_position_embeddings": 512,
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "num_labels": 2,
+  "output_attentions": false,
+  "output_hidden_states": false,
+  "pruned_heads": {},
+  "torchscript": false,
+  "type_vocab_size": 2,
+  "vocab_size": 30522
+}
+
+[2019-11-30 16:32:30,462 INFO] loading weights file https://s3.amazonaws.com/models.huggingface.co/bert/bert-base-uncased-pytorch_model.bin from cache at ../temp/aa1ef1aede4482d0dbcd4d52baad8ae300e60902e88fcb0bebdec09afd232066.36ca03ab34a1a5d5fa7bc3d03d55c4fa650fed07220e2eeebc06ce58d0e9a157
+[2019-11-30 16:32:34,995 INFO] Loading valid dataset from ../bert_data/amazon_food_review.valid.0.bert.pt, number of examples: 17
+[2019-11-30 16:32:35,021 INFO] * number of parameters: 120512513
+[2019-11-30 16:33:16,888 INFO] Validation xent: 4.24776 at step 0
+[2019-11-30 16:33:17,492 INFO] Loading checkpoint from ../models/bertext_cnndm_transformer.valid.1.pt
+[2019-11-30 16:33:20,679 INFO] loading configuration file https://s3.amazonaws.com/models.huggingface.co/bert/bert-base-uncased-config.json from cache at ../temp/4dad0251492946e18ac39290fcfe91b89d370fee250efe9521476438fe8ca185.bf3b9ea126d8c0001ee8a1e8b92229871d06d36d8808208cc2449280da87785c
+[2019-11-30 16:33:20,680 INFO] Model config {
+  "attention_probs_dropout_prob": 0.1,
+  "finetuning_task": null,
+  "hidden_act": "gelu",
+  "hidden_dropout_prob": 0.1,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "layer_norm_eps": 1e-12,
+  "max_position_embeddings": 512,
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "num_labels": 2,
+  "output_attentions": false,
+  "output_hidden_states": false,
+  "pruned_heads": {},
+  "torchscript": false,
+  "type_vocab_size": 2,
+  "vocab_size": 30522
+}
+
+[2019-11-30 16:33:20,995 INFO] loading weights file https://s3.amazonaws.com/models.huggingface.co/bert/bert-base-uncased-pytorch_model.bin from cache at ../temp/aa1ef1aede4482d0dbcd4d52baad8ae300e60902e88fcb0bebdec09afd232066.36ca03ab34a1a5d5fa7bc3d03d55c4fa650fed07220e2eeebc06ce58d0e9a157
+[2019-11-30 16:33:27,678 INFO] Loading test dataset from ../bert_data/amazon_food_review.test.0.bert.pt, number of examples: 19
+[2019-11-30 16:33:27,695 INFO] * number of parameters: 120512513
+[2019-11-30 16:34:06,160 INFO] Writing summaries.
+[2019-11-30 16:34:06,162 INFO] Processing summaries. Saving system files to ../temp/tmp9gsllvpq/system and model files to ../temp/tmp9gsllvpq/model.
+[2019-11-30 16:34:06,162 INFO] Processing files in ../temp/rouge-tmp-2019-11-30-16-34-06/candidate/.
+[2019-11-30 16:34:06,183 INFO] Saved processed files to ../temp/tmp9gsllvpq/system.
+[2019-11-30 16:34:06,184 INFO] Processing files in ../temp/rouge-tmp-2019-11-30-16-34-06/reference/.
+[2019-11-30 16:34:06,202 INFO] Saved processed files to ../temp/tmp9gsllvpq/model.
+[2019-11-30 16:34:06,203 INFO] Written ROUGE configuration to ../temp/tmp8mhj02br/rouge_conf.xml
+[2019-11-30 16:34:06,203 INFO] Running ROUGE with command /Users/wangqiwen/Documents/cs221/project/pyrouge/tools/ROUGE-1.5.5/ROUGE-1.5.5.pl -e /Users/wangqiwen/Documents/cs221/project/pyrouge/tools/ROUGE-1.5.5/data -c 95 -m -r 1000 -n 2 -a ../temp/tmp8mhj02br/rouge_conf.xml
+[2019-11-30 16:34:06,903 INFO] Rouges at step 0 
+>> ROUGE-F(1/2/3/l): 54.67/1.01/54.45
+ROUGE-R(1/2/3/l): 74.45/7.43/73.15
+
+[2019-11-30 16:34:06,903 INFO] Validation xent: 3.62685 at step 0
